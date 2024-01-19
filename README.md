@@ -5,7 +5,7 @@
 # Требования
 * wine>= 6.1
 * zenity
-* appmenu-gtk-module
+* appmenu-gtk-module `не был установлен при тестировании на ubuntu`
 * tar
 * wget
 * curl
