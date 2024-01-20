@@ -36,3 +36,10 @@ Camera Raw Вы можете установить Camera Raw следующим 
 * HansKristian-Work: Для создания VKD3D-Proton
 * Adobe: Для создания Photoshop (также, пожалуйста, выпустьте официальную версию для Linux ...)
 * LinSoftWin: За основу скрипта
+
+# Тестирование
+
+| Operating system | Wine wersion | Test date | Installs? | Runs? | Problems | Rating |
+|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
+| Ubuntu 23.10 | 9.0 | 19.01.2024 | Yes | Yes | Некоторые элементы интерфейса глючат | Silver |
+| - | - | - |
