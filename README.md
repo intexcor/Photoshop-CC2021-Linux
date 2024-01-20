@@ -42,4 +42,4 @@ Camera Raw Вы можете установить Camera Raw следующим 
 | Operating system | Wine wersion | Test date | Installs? | Runs? | Problems | Rating |
 |-------------|-------------|-------------|-------------|-------------|-------------|-------------|
 | Ubuntu 23.10 | 9.0 | 19.01.2024 | Yes | Yes | Некоторые элементы интерфейса глючат | Silver |
-| - | - | - |
+| Arch | 8.21 | 20.01.2024 | Yes | Yes | Некоторые элементы интерфейса глючат, `error sniffer.exe` | Silver |
