@@ -78,7 +78,7 @@ echo 'RESOURCES_PATH="$SCR_PATH/resources"' >> $HOME/Adobe-Photoshop/drive_c/lau
 echo 'WINE_PREFIX="$SCR_PATH/prefix"' >> $HOME/Adobe-Photoshop/drive_c/launcher.sh
 echo 'FILE_PATH=$(winepath -w "$HOME")' >> $HOME/Adobe-Photoshop/drive_c/launcher.sh
 echo 'export WINEPREFIX="'$HOME'/Adobe-Photoshop"' >> $HOME/Adobe-Photoshop/drive_c/launcher.sh
-echo 'WINEPREFIX='$HOME'/Adobe-Photoshop DXVK_LOG_PATH='$HOME'/Adobe-Photoshop DXVK_STATE_CACHE_PATH='$HOME'/Adobe-Photoshop wine64 ' $HOME'/Adobe-Photoshop/drive_c/Program\ Files/Adobe/Adobe\ Photoshop\ 2021/photoshop.exe $FILE_PATH' >> $HOME/Adobe-Photoshop/drive_c/launcher.sh
+echo 'WINEPREFIX='$HOME'/Adobe-Photoshop DXVK_LOG_PATH='$HOME'/Adobe-Photoshop DXVK_STATE_CACHE_PATH='$HOME'/Adobe-Photoshop wine64 ' $HOME'/Adobe-Photoshop/drive_c/Program\ Files/Adobe/Adobe\ Photoshop\ 2021/photoshop.exe >> $HOME/Adobe-Photoshop/drive_c/launcher.sh
 
 chmod +x $HOME/Adobe-Photoshop/drive_c/launcher.sh
 
